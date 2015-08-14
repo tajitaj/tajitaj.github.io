@@ -296,6 +296,8 @@
                 <file name="external/chipmunk/chipmunk.js"/>
                 <file name="external/socketio/socket.io.min.js"/>
                 <file name="external/pluginx/Plugin.js"/>
+                <file name="external/pluginx/platform/facebook_sdk.js"/>
+                <file name="external/pluginx/platform/facebook.js"/>
 
             </sources>
             <sources dir="${basedir}">

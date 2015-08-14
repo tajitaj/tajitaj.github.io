@@ -1,1 +1,1 @@
-{"showFPS": false, "frameRate": 60, "project_type": "javascript", "debugMode": 1, "renderMode": 0, "id": "gameCanvas"}
+{"showFPS": false, "plugin": {"facebook": {"version": "v2.3", "xfbml": true, "appId": "1607735426109954"}}, "frameRate": 60, "project_type": "javascript", "debugMode": 1, "renderMode": 0, "id": "gameCanvas"}
